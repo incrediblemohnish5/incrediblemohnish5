@@ -25,10 +25,6 @@ I'm a student developer passionate about AI, Agentic AI, and IoT. I enjoy learni
 **Focus:** AI/ML, Agentic AI, Prompt Engineering, IoT, Cybersecurity  
 **Tools:** Git, GitHub, Python, APIs
 
----
-
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=incrediblemohnish5&show_icons=true&theme=dracula)
 
 ---
 
