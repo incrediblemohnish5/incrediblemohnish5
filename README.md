@@ -54,8 +54,10 @@ I'm a student developer passionate about AI, Agentic AI, and IoT. I enjoy learni
 
 ## ⚡ Interests
 **Tech:** AI • Agentic AI • IoT • Cybersecurity • Prompt Engineering  
+
 **Sports:** Badminton • Swimming 
-**Hobbies** Chess • Reading Books
+
+**Hobbies:** Chess • Reading Books
 
 ---
 
