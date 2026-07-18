@@ -1,15 +1,15 @@
 # Hi there, I'm Mohnish Chaudhari 👋
 
 ## About Me
-I'm a student developer passionate about AI, Agentic AI, and IoT. I enjoy learning new things exploring prompt engineering, and working on projects that solve real problems. Outside of coding, I am into reading books, chess, playing badminton and swimming 
+I'm a student developer passionate about AI, Agentic AI, and IoT. I enjoy learning new things exploring prompt engineering, and working on projects that solve real problems. Outside of coding, I am into reading books, chess, playing badminton and swimming.
 
 ---
 
 ## 🎯 What I Do
-- **AI & Agentic AI** — Building autonomous systems and exploring AI agents
-- **IoT Development** — Creating smart connected systems
-- **Cybersecurity** — Learning secure coding practices
-- **Python & Web Development** — Building practical applications
+- **AI & Agentic AI** — Building autonomous systems and exploring AI agents.
+- **IoT Development** — Creating smart connected systems.
+- **Cybersecurity** — Learning secure coding practices.
+- **Python & Web Development** — Building practical applications.
 
 ---
 
@@ -67,4 +67,4 @@ I'm a student developer passionate about AI, Agentic AI, and IoT. I enjoy learni
 
 ---
 
-*Last updated: June 11, 2026*
+*Last updated: 18 July, 2026*
