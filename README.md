@@ -1,7 +1,7 @@
 # Hi there, I'm Mohnish Chaudhari 👋
 
 ## About Me
-I'm a student developer passionate about AI, Agentic AI, and IoT. I enjoy learning new things exploring prompt engineering, and working on projects that solve real problems. Outside of coding, I am into reading books, playing chess and badminton and swimming 
+I'm a student developer passionate about AI, Agentic AI, and IoT. I enjoy learning new things exploring prompt engineering, and working on projects that solve real problems. Outside of coding, I am into reading books, chess, playing badminton and swimming 
 
 ---
 
