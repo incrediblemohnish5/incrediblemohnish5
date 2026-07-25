@@ -10,7 +10,7 @@ During this program, I served as the Project Lead and Tech Lead for an advanced 
 
 ---
 
-## 🎯 What I Do
+## 🎯 What I Do and My Interests
 - **AI & Agentic AI** — Building autonomous systems and exploring AI agents.
 - **IoT Development** — Creating smart connected systems.
 - **Cybersecurity** — Learning secure coding practices.
