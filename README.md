@@ -1,6 +1,6 @@
 # Hey there! 👋 I'm Mohnish Chaudhari
 
-**AI Enthusiast | Agentic AI Builder | IoT Developer | Prompt Engineer**
+**AI and Agent Enthusiast | Robotics Enthusiast| IoT Developer | Prompt Engineering Explorer**
 
 Welcome to my corner of GitHub! I'm a student developer passionate about building intelligent systems and solving real-world problems through AI, IoT, and ethical technology.
 
@@ -73,7 +73,7 @@ An AI-powered IoT system optimizing water usage in agriculture. Developed as **P
 - Sustainable water management  
 📖 [Read the full case study on Medium](https://medium.com/@mohnishchaudhari)
 
-**[Smart Blind Stick] 
+**Smart Blind Stick**
 Enhancing and improving a smart device for assistive technology for specially abled people.
 
 ---
@@ -108,14 +108,6 @@ A collection of Python programs demonstrating core concepts:
 
 ---
 
-## 📊 GitHub Stats & Activity (🔥Contribution Streak) 
-
-###
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=incrediblemohnish5&theme=tokyonight&hide_border=true)
-
-</div>
-
----
 
 ## 🤝 Let's Connect!
 
