@@ -4,8 +4,6 @@
 I'm a student developer passionate about AI, Agentic AI, and IoT. 
 I enjoy learning new things exploring prompt engineering, and working on projects that solve real problems. 
 Outside of coding, I am into reading books, chess, playing badminton and swimming.
-I recently completed a prestigious, intensive six-week STEM program at the IIT Kharagpur KRITI Initiative, where I learned directly from esteemed IIT faculty. 
-During this program, I served as the Project Lead and Tech Lead for an advanced Smart Drip Irrigation IoT system, working under the direct mentorship of an IIT Kharagpur professor.
 
 
 ---
@@ -43,6 +41,10 @@ During this program, I served as the Project Lead and Tech Lead for an advanced 
 
 ### IoT & Smart Systems
 - **[Smart-Drip-Irrigation-System](https://github.com/incrediblemohnish5/Smart-Drip-Irrigation-System-)** — AI-powered IoT system for water optimization ([Medium article](https://medium.com/@mohnishchaudhari/building-an-ai-powered-smart-drip-irrigation-system-an-offline-first-multilingual-solution-for-a91752f5a6e3))
+I recently completed a prestigious, intensive six-week STEM program at the IIT Kharagpur KRITI Initiative, where I learned directly from esteemed IIT faculty. 
+During this program, I served as the Project Lead and Tech Lead for an advanced Smart Drip Irrigation IoT system, working under the direct mentorship of an IIT Kharagpur professor.
+
+- **Smart Blind Stick** - Enhancing and improving it.
 
 ### Python Projects
 - **[SafeInputprogram_Python](https://github.com/incrediblemohnish5/SafeInputprogram_Python)** — Input validation
