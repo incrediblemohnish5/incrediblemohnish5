@@ -1,86 +1,62 @@
 # Hey there! 👋 I'm Mohnish Chaudhari
 
-**AI and Agent Enthusiast | Robotics Enthusiast| IoT Developer | Prompt Engineering Explorer**
+**AI & Agentic Systems | IoT Developer | Robotics Enthusiast**
 
-Welcome to my corner of GitHub! I'm a student developer passionate about building intelligent systems and solving real-world problems through AI, IoT, and ethical technology.
+Student developer building intelligent systems at the intersection of AI, IoT, and real-world problem solving.
 
 ---
 
 ## 🚀 About Me
 
-I'm a **student developer** with a deep focus on **Agentic AI** and **IoT systems** and **Robotics**. I'm deeply interested in how autonomous agents are reshaping technology and love exploring the intersection of AI, prompt engineering, and practical applications.
+I'm a student developer focused on **Agentic AI**, **IoT systems**, and **Robotics**. I'm especially interested in how autonomous agents are reshaping technology, and I enjoy exploring the practical side of prompt engineering and applied AI.
 
-### 🏆 Notable Achievement
-I recently completed the prestigious **IIT Kharagpur KRITI Initiative** — a 6-week intensive STEM program where I:
-- Served as **Project Lead & Tech Lead** for an advanced Smart Drip Irrigation IoT system
-- Learned directly from IIT Kharagpur faculty and professors
+**Notable achievement:** Completed the **IIT Kharagpur KRITI Initiative**, a 6-week intensive STEM program, where I served as **Project Lead & Tech Lead** for a Smart Drip Irrigation IoT system, working directly with IIT Kharagpur faculty.
 
-Beyond coding, I'm into **reading**, **chess**, **badminton**, and **swimming**. I also write articles on Medium about AI and IoT projects.
-I am also writing a book.
+Outside of code: reading, chess, badminton, swimming, and writing — including articles on Medium and a book in progress.
 
 ---
 
-## 🎯 What I'm Focused On
+## 🎯 Focus Areas
 
-| Focus Area | Details |
+| Area | Details |
 |---|---|
-| 🤖 **Agentic AI** | Building autonomous systems, exploring agent architectures & multi-agent frameworks |
-| 🔬 **AI/ML & Prompt Engineering** | Fine-tuning prompts, exploring model behavior, AI ethics & responsible AI |
-| 🌐 **IoT Development** | Smart systems, sensor integration, real-time data processing, optimization |
-| 🔐 **Cybersecurity** | Secure coding practices, input validation, ethical hacking fundamentals |
-| 💻 **Python & Web Development** | Building practical, scalable applications |
+| Agentic AI | Building autonomous systems, exploring agent architectures & multi-agent frameworks |
+| AI/ML & Prompt Engineering | Fine-tuning prompts, exploring model behavior, AI ethics |
+| IoT Development | Smart systems, sensor integration, real-time data processing |
+| Cybersecurity | Secure coding practices, input validation, ethical hacking fundamentals |
+| Python & Web Development | Building practical, scalable applications |
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages & Frameworks:**
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+**Languages:** Python, HTML5
+<!-- Add badges here as your stack grows — e.g. frameworks or libraries you've actually used for agentic AI / IoT (LangChain, specific microcontrollers, ML libraries, etc.) -->
 
-**Tools & Platforms:**
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/incrediblemohnish5)
-[![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-
+**Tools:** GitHub, VS Code
 
 ---
 
-## 🌟 Featured Projects
+## 🌟 Major Projects
 
-### 🤖 AI & Agentic AI Projects
-
-**[Agentic_AI](https://github.com/incrediblemohnish5/Agentic_AI)** ⭐  
-Exploring how AI agents are transforming technology and building autonomous systems.  
-📖 [Read my Medium article](https://medium.com/@mohnishchaudhari)
-
-**[Almost_PerfectPromptEngineering](https://github.com/incrediblemohnish5/Almost_PerfectPromptEngineering)**  
-A collection of productivity-focused, battle-tested prompts for AI models.
-
-**[AVOID_AI_ERRORS_v3](https://github.com/incrediblemohnish5/AVOID_AI_ERRORS_v3)**  
-Common mistakes to avoid when working with AI — lessons learned the hard way.
-
-**[KarpathysGuidelines_in_multiple_languages](https://github.com/incrediblemohnish5/KarpathysGuidelines_in_multiple_languages)**  
-Andrej Karpathy's neural network guidelines translated into multiple languages for accessibility.
-
----
-
-### 🌐 IoT & Smart Systems
-
-**[Smart-Drip-Irrigation-System](https://github.com/incrediblemohnish5/Smart-Drip-Irrigation-System-) ⭐ IIT Project**  
-An AI-powered IoT system optimizing water usage in agriculture. Developed as **Project Lead & Tech Lead** during the IIT Kharagpur KRITI Initiative.  
+**[Smart Drip Irrigation System](https://github.com/incrediblemohnish5/Smart-Drip-Irrigation-System-)** — IIT Kharagpur Project
+AI-powered IoT system optimizing water usage in agriculture. Built as Project Lead & Tech Lead during the IIT Kharagpur KRITI Initiative.
 - Real-time sensor data processing
 - AI-driven optimization algorithms
-- Sustainable water management  
-📖 [Read the full case study on Medium](https://medium.com/@mohnishchaudhari)
+- Sustainable, offline-first, multilingual design
+📖 [Read the full case study](https://medium.com/@mohnishchaudhari/building-an-ai-powered-smart-drip-irrigation-system-an-offline-first-multilingual-solution-for-a91752f5a6e3)
 
-**Smart Blind Stick**
-Enhancing and improving a smart device for assistive technology for specially abled people.
+**[Agentic_AI](https://github.com/incrediblemohnish5/Agentic_AI)**
+Exploring how autonomous AI agents are transforming technology.
+📖 [Read the article](https://medium.com/@mohnishchaudhari/ai-agents-are-changing-everything-and-we-have-to-catch-up-a2d5a2178dc8)
+
+**[Smart Blind Stick]** — assistive technology device for visually impaired users.
 
 ---
 
-### 🐍 Python Projects
+## 🐍 Practice Projects
 
-A collection of Python programs demonstrating core concepts:
+Smaller programs demonstrating core Python concepts:
 
 | Project | Description |
 |---|---|
@@ -95,37 +71,21 @@ A collection of Python programs demonstrating core concepts:
 
 ---
 
-## ⚡ Interests & Hobbies
-
-**Tech Stack:**  
-🤖 AI • Agentic AI • Prompt Engineering • IoT • Cybersecurity • AI Ethics
-
-**Sports & Recreation:**  
-🏸 Badminton • 🏊 Swimming • ♟️ Chess
-
-**Creative:**  
-📚 Reading • ✍️ Writing Articles & Books
-
----
-
-
-## 🤝 Let's Connect!
-
-I'm always excited to collaborate on AI, IoT, and open-source projects. Feel free to reach out:
-
-- 📝 **Medium**: [@mohnishchaudhari](https://medium.com/@mohnishchaudhari) — Articles on AI, IoT, and tech learnings
-- 💻 **GitHub**: [@incrediblemohnish5](https://github.com/incrediblemohnish5) — Explore my repositories
-- 💡 **Open to**: Collaborations, project ideas, mentorship, and discussions about AI ethics
-
----
-
 ## 🎓 Currently Learning
 
-- 🚀 Advanced agentic AI frameworks and multi-agent systems
-- 🔬 Large Language Models (LLMs) and fine-tuning techniques
-- 🌍 IoT scalability and edge computing
-- 🛡️ Advanced cybersecurity practices
+- Advanced agentic AI frameworks and multi-agent systems
+- Large Language Models (LLMs) and fine-tuning techniques
+- IoT scalability and edge computing
+- Advanced cybersecurity practices
 
 ---
 
-*Last updated: July 26, 2026*
+## 🤝 Let's Connect
+
+- **Medium**: [@mohnishchaudhari](https://medium.com/@mohnishchaudhari) — articles on AI and IoT
+- **GitHub**: [@incrediblemohnish5](https://github.com/incrediblemohnish5)
+- **Open to**: collaborations, project ideas, mentorship, and discussions on AI ethics
+
+---
+
+*Last updated: July 27, 2026*
