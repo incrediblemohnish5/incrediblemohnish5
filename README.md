@@ -58,10 +58,9 @@ Outside of code: reading, chess, badminton, swimming, and writing — including 
 ## 🌟 Major Projects
 
 ### [Smart Drip Irrigation System](https://github.com/incrediblemohnish5/Smart-Drip-Irrigation-System-) — IIT Kharagpur Project
-AI-powered IoT system optimizing water usage in agriculture. Built as Project Lead & Tech Lead during the IIT Kharagpur KRITI Initiative.
-- ✅ Real-time sensor data processing
-- ✅ AI-driven optimization algorithms
-- ✅ Sustainable, offline-first, multilingual design
+IoT system optimizing water usage in agriculture. Built while I was Project Lead & Tech Lead of the project during the IIT Kharagpur KRITI Initiative.
+- ✅ Real-time sensor data processing.
+- ✅ Sustainable, offline-first, multilingual design.
 
 📖 [Read the full case study](https://medium.com/@mohnishchaudhari/building-an-ai-powered-smart-drip-irrigation-system-an-offline-first-multilingual-solution-for-a91752f5a6e3)
 
@@ -71,7 +70,7 @@ Exploring how autonomous AI agents are transforming technology.
 📖 [Read the article](https://medium.com/@mohnishchaudhari/ai-agents-are-changing-everything-and-we-have-to-catch-up-a2d5a2178dc8)
 
 ### [Smart Blind Stick]
-Assistive technology device for visually impaired users.
+Assistive technology device for visually impaired users. Work in ongoing.
 
 ---
 
@@ -107,12 +106,6 @@ Smaller programs demonstrating core Python concepts:
 - **Medium**: [@mohnishchaudhari](https://medium.com/@mohnishchaudhari) — articles on AI and IoT
 - **GitHub**: [@incrediblemohnish5](https://github.com/incrediblemohnish5)
 - **Open to**: collaborations, project ideas, mentorship, and discussions on AI ethics, cybersecurity, IoT and Agentic AI
-
----
-
-## 📝 License
-
-This repository is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
 
 ---
 
