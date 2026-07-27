@@ -8,7 +8,7 @@ Welcome to my corner of GitHub! I'm a student developer passionate about buildin
 
 ## 🚀 About Me
 
-I'm a **student developer** with a deep focus on **Agentic AI** and **IoT systems**. I'm deeply interested in how autonomous agents are reshaping technology and love exploring the intersection of AI, prompt engineering, and practical applications.
+I'm a **student developer** with a deep focus on **Agentic AI** and **IoT systems** and **Robotics**. I'm deeply interested in how autonomous agents are reshaping technology and love exploring the intersection of AI, prompt engineering, and practical applications.
 
 ### 🏆 Notable Achievement
 I recently completed the prestigious **IIT Kharagpur KRITI Initiative** — a 6-week intensive STEM program where I:
