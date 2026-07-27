@@ -43,23 +43,14 @@ Outside of code: reading, chess, badminton, swimming, and writing — including 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Hardware & IoT
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)
-
-### Frameworks & Libraries
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 ### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
 ---
@@ -105,16 +96,9 @@ Smaller programs demonstrating core Python concepts:
 
 - Advanced agentic AI frameworks and multi-agent systems
 - Large Language Models (LLMs) and fine-tuning techniques
-- IoT scalability and edge computing
+- IoT scalability
 - Advanced cybersecurity practices
-
----
-
-## 📈 GitHub Statistics
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=incrediblemohnish5&show_icons=true&theme=radical)](https://github.com/incrediblemohnish5)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=incrediblemohnish5&layout=compact&theme=radical)](https://github.com/incrediblemohnish5)
+- AI ethics 
 
 ---
 
