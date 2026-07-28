@@ -17,9 +17,9 @@ Student developer learning how intelligent systems work at at the intersection o
 
 ## 🚀 About Me
 
-I'm a student developer focused on **Agentic AI**, **IoT systems**, and **Robotics**. I'm especially interested in how autonomous agents are reshaping technology, and I enjoy exploring practical applications at the intersection of hardware and intelligent software.
+I'm a student developer focused on **Agentic AI**, **IoT systems**, and **Robotics**. I'm especially interested in how autonomous agents are reshaping technology, and I enjoy exploring practical a[...]
 
-**Notable achievement:** Completed the **IIT Kharagpur KRITI Initiative**, a 6-week intensive STEM program, where I served as **Project Lead & Tech Lead** for a Smart Drip Irrigation IoT system, winning recognition for innovation and practical impact.
+**Notable achievement:** Completed the **IIT Kharagpur KRITI Initiative**, a 6-week intensive STEM program, where I served as **Project Lead & Tech Lead** for a Smart Drip Irrigation IoT system, w[...]
 
 Outside of code: reading, chess, badminton, swimming, and writing — including articles on Medium and a book in progress.
 
@@ -47,11 +47,16 @@ Outside of code: reading, chess, badminton, swimming, and writing — including 
 ### Hardware & IoT
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![DHT22](https://img.shields.io/badge/DHT22-4CAF50?style=for-the-badge)
+![Ultrasonic (HC-SR04)](https://img.shields.io/badge/Ultrasonic-HC-SR04-007ACC?style=for-the-badge)
+![Haptic Motor](https://img.shields.io/badge/Haptic%20Motor-E91E63?style=for-the-badge)
 
 ### Tools & Platforms
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Lovable.dev](https://img.shields.io/badge/Lovable.dev-FB8C00?style=for-the-badge)
 
 ---
 
@@ -109,4 +114,4 @@ Smaller programs demonstrating core Python concepts:
 
 ---
 
-*Last updated: July 27, 2026*
+*Last updated: July 28, 2026*
