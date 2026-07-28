@@ -108,7 +108,7 @@ Smaller programs demonstrating core Python concepts:
 
 ## 🤝 Let's Connect
 
-- **Medium**: [@mohnishchaudhari](https://medium.com/@mohnishchaudhari) — articles on AI and IoT
+- [![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@mohnishchaudhari): [@mohnishchaudhari](https://medium.com/@mohnishchaudhari) — articles on AI and IoT
 - **GitHub**: [@incrediblemohnish5](https://github.com/incrediblemohnish5)
 - **Open to**: collaborations, project ideas, mentorship, and discussions on AI ethics, cybersecurity, IoT and Agentic AI
 
