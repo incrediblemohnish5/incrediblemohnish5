@@ -48,7 +48,7 @@ Outside of code: reading, chess, badminton, swimming, and writing — including 
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 ![DHT22](https://img.shields.io/badge/DHT22-4CAF50?style=for-the-badge)
-![Ultrasonic (HC-SR04)](https://img.shields.io/badge/Ultrasonic-HC-SR04-007ACC?style=for-the-badge)
+![Ultrasonic (HC-SR04)](https://img.shields.io/static/v1?label=Ultrasonic&message=HC-SR04&color=007ACC&style=for-the-badge)
 ![Haptic Motor](https://img.shields.io/badge/Haptic%20Motor-E91E63?style=for-the-badge)
 
 ### Tools & Platforms
