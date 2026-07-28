@@ -8,6 +8,7 @@ Student developer learning how intelligent systems work at at the intersection o
 
 ## 📊 Profile Overview
 
+![Profile Views](https://komarev.com/ghpvc/?username=incrediblemohnish5&color=blueviolet)
 ![GitHub followers](https://img.shields.io/github/followers/incrediblemohnish5?style=social)
 ![GitHub User's stars](https://img.shields.io/github/stars/incrediblemohnish5?style=social)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@mohnishchaudhari)
@@ -17,9 +18,9 @@ Student developer learning how intelligent systems work at at the intersection o
 
 ## 🚀 About Me
 
-I'm a student developer focused on **Agentic AI**, **IoT systems**, and **Robotics**. I'm especially interested in how autonomous agents are reshaping technology, and I enjoy exploring practical a[...]
+I'm a student developer focused on **Agentic AI**, **IoT systems**, and **Robotics**. I'm especially interested in how autonomous agents are reshaping technology, and I enjoy exploring practical applications.
 
-**Notable achievement:** Completed the **IIT Kharagpur KRITI Initiative**, a 6-week intensive STEM program, where I served as **Project Lead & Tech Lead** for a Smart Drip Irrigation IoT system, w[...]
+**Notable achievement:** Completed the **IIT Kharagpur KRITI Initiative**, a 6-week intensive STEM program, where I served as **Project Lead & Tech Lead** for a Smart Drip Irrigation IoT system, working on autonomous water optimization.
 
 Outside of code: reading, chess, badminton, swimming, and writing — including articles on Medium and a book in progress.
 
