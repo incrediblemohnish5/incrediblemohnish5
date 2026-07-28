@@ -2,7 +2,7 @@
 
 **AI & Agentic Systems | IoT Developer | Robotics Enthusiast**
 
-Student developer learning intelligent systems at the intersection of AI, IoT, and real-world problem solving.
+Student developer learning how intelligent systems work at at the intersection of AI, IoT, and real-world problem solving.
 
 ---
 
