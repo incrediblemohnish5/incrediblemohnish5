@@ -16,7 +16,7 @@ Student developer learning how intelligent systems work at at the intersection o
 [![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 [![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
-[![Lovable.dev](https://img.shields.io/static/v1?label=Lovable.dev&message=Lovable.dev&color=FB8C00&style=flat&logo=heart&logoColor=white)](https://lovable.dev)
+[![Lovable.dev](https://img.shields.io/static/v1?label=Lovable.dev&color=FB8C00&style=flat&logo=heart&logoColor=white)](https://lovable.dev)
 [![HC-SR04](https://img.shields.io/static/v1?label=Ultrasonic&message=HC-SR04&color=007ACC&style=flat&logo=arduino&logoColor=white)](https://www.sparkfun.com/products/15569)
 
 ---
