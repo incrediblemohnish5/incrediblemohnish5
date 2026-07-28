@@ -47,16 +47,16 @@ Outside of code: reading, chess, badminton, swimming, and writing — including 
 ### Hardware & IoT
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-![DHT22](https://img.shields.io/badge/DHT22-4CAF50?style=for-the-badge)
-![Ultrasonic (HC-SR04)](https://img.shields.io/static/v1?label=Ultrasonic&message=HC-SR04&color=007ACC&style=for-the-badge)
-![Haptic Motor](https://img.shields.io/badge/Haptic%20Motor-E91E63?style=for-the-badge)
+![DHT22](https://img.shields.io/static/v1?label=DHT22&message=DHT22&color=4CAF50&style=for-the-badge&logo=arduino&logoColor=white)
+![Ultrasonic (HC-SR04)](https://img.shields.io/static/v1?label=Ultrasonic&message=HC-SR04&color=007ACC&style=for-the-badge&logo=arduino&logoColor=white)
+![Haptic Motor](https://img.shields.io/static/v1?label=Haptic%20Motor&message=Vibration&color=E91E63&style=for-the-badge&logo=arduino&logoColor=white)
 
 ### Tools & Platforms
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Lovable.dev](https://img.shields.io/badge/Lovable.dev-FB8C00?style=for-the-badge)
+![Lovable.dev](https://img.shields.io/static/v1?label=Lovable.dev&message=Lovable.dev&color=FB8C00&style=for-the-badge&logo=heart&logoColor=white)
 
 ---
 
