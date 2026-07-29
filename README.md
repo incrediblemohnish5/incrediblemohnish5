@@ -2,7 +2,7 @@
 
 **AI & Agentic Systems | IoT Developer | Robotics Enthusiast**
 
-Student developer learning how intelligent systems work at at the intersection of AI, IoT, and real-world problem solving.
+Student developer learning how intelligent systems work at at the intersection of AI, IoT, Robotics and real-world problem solving.
 
 ---
 
@@ -114,4 +114,4 @@ Smaller programs demonstrating core Python concepts:
 
 ---
 
-*Last updated: July 28, 2026*
+*Last updated: July 29, 2026*
