@@ -24,9 +24,9 @@ Student developer learning how intelligent systems work at at the intersection o
 
 ## 🚀 About Me
 
-I'm a student developer focused on **Agentic AI**, **IoT systems**, and **Robotics**. I'm especially interested in how autonomous agents are reshaping technology, and I enjoy exploring practical a[...]
+I'm a student developer focused on **Agentic AI**, **IoT systems**, and **Robotics**. I'm especially interested in how autonomous agents are reshaping technology, and I enjoy exploring practical and hands'on work.
 
-**Notable achievement:** Completed the **IIT Kharagpur KRITI Initiative**, a 6-week intensive STEM program, where I served as **Project Lead & Tech Lead** for a Smart Drip Irrigation IoT system, w[...]
+**Notable achievement:** Completed the **IIT Kharagpur KRITI Initiative**, a 6-week intensive STEM program, where I served as **Project Lead & Tech Lead** for a Smart Drip Irrigation IoT system.
 
 Outside of code: reading, chess, badminton, swimming, and writing — including articles on Medium and a book in progress.
 
@@ -115,7 +115,7 @@ Smaller programs demonstrating core Python concepts:
 
 ## 🤝 Let's Connect
 
-- [![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@mohnishchaudhari): [@mohnishchaudhari](https://medium.com/@mohnishchaudhari) — ar[...]
+- [![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@mohnishchaudhari): [@mohnishchaudhari](https://medium.com/@mohnishchaudhari)
 - **GitHub**: [@incrediblemohnish5](https://github.com/incrediblemohnish5)
 - **Open to**: mentorship, project ideas, collaborations, and discussions on AI ethics, cybersecurity, IoT and Agentic AI
 
