@@ -110,8 +110,8 @@ Smaller programs demonstrating core Python concepts:
 
 - [![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@mohnishchaudhari): [@mohnishchaudhari](https://medium.com/@mohnishchaudhari) — articles on AI and IoT
 - **GitHub**: [@incrediblemohnish5](https://github.com/incrediblemohnish5)
-- **Open to**: collaborations, project ideas, mentorship, and discussions on AI ethics, cybersecurity, IoT and Agentic AI
+- **Open to**: mentorship, project ideas, collaborations, and discussions on AI ethics, cybersecurity, IoT and Agentic AI
 
 ---
 
-*Last updated: July 29, 2026*
+*Last updated: 2 August 2026*
