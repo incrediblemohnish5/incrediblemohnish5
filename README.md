@@ -6,20 +6,27 @@ Student developer learning how intelligent systems work at at the intersection o
 
 ---
 
-## 📊 Profile Overview
+## 📊 Badges
 
-![Profile Views](https://komarev.com/ghpvc/?username=incrediblemohnish5&color=blueviolet)
-![GitHub followers](https://img.shields.io/github/followers/incrediblemohnish5?style=social)
-![GitHub User's stars](https://img.shields.io/github/stars/incrediblemohnish5?style=social)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@mohnishchaudhari)
+<!-- Improved badges section: grouped, consistent style, and CC0 license badge added -->
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=incrediblemohnish5&color=blueviolet" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/incrediblemohnish5?style=social" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/incrediblemohnish5?style=social" alt="GitHub stars" />
+  <a href="https://medium.com/@mohnishchaudhari"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
+  <a href="https://creativecommons.org/publicdomain/zero/1.0/"><img src="https://img.shields.io/badge/License-CC0_1.0-lightgrey?style=for-the-badge&logo=creative-commons&logoColor=white" alt="License: CC0-1.0"/></a>
+</p>
+
+> Note: Many of my projects are released under the CC0 1.0 Universal dedication (public domain). The CC0 badge highlights projects that adopt CC0.
 
 ---
 
 ## 🚀 About Me
 
-I'm a student developer focused on **Agentic AI**, **IoT systems**, and **Robotics**. I'm especially interested in how autonomous agents are reshaping technology, and I enjoy exploring practical applications.
+I'm a student developer focused on **Agentic AI**, **IoT systems**, and **Robotics**. I'm especially interested in how autonomous agents are reshaping technology, and I enjoy exploring practical a[...]
 
-**Notable achievement:** Completed the **IIT Kharagpur KRITI Initiative**, a 6-week intensive STEM program, where I served as **Project Lead & Tech Lead** for a Smart Drip Irrigation IoT system, working on autonomous water optimization.
+**Notable achievement:** Completed the **IIT Kharagpur KRITI Initiative**, a 6-week intensive STEM program, where I served as **Project Lead & Tech Lead** for a Smart Drip Irrigation IoT system, w[...]
 
 Outside of code: reading, chess, badminton, swimming, and writing — including articles on Medium and a book in progress.
 
@@ -108,7 +115,7 @@ Smaller programs demonstrating core Python concepts:
 
 ## 🤝 Let's Connect
 
-- [![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@mohnishchaudhari): [@mohnishchaudhari](https://medium.com/@mohnishchaudhari) — articles on AI and IoT
+- [![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@mohnishchaudhari): [@mohnishchaudhari](https://medium.com/@mohnishchaudhari) — ar[...]
 - **GitHub**: [@incrediblemohnish5](https://github.com/incrediblemohnish5)
 - **Open to**: mentorship, project ideas, collaborations, and discussions on AI ethics, cybersecurity, IoT and Agentic AI
 
