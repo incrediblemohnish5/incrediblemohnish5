@@ -15,7 +15,7 @@ Student developer learning how intelligent systems work at at the intersection o
   <img src="https://img.shields.io/github/followers/incrediblemohnish5?style=social" alt="GitHub followers" />
   <img src="https://img.shields.io/github/stars/incrediblemohnish5?style=social" alt="GitHub stars" />
   <a href="https://medium.com/@mohnishchaudhari"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
-  <a href="https://creativecommons.org/publicdomain/zero/1.0/"><img src="https://img.shields.io/badge/License-CC0_1.0-lightgrey?style=for-the-badge&logo=creative-commons&logoColor=white" alt="License: CC0-1.0"/></a>
+  <a href="https://creativecommons.org/publicdomain/zero/1.0/"><img src="https://img.shields.io/badge/License-CC0_1.0-lightgrey?style=for-the-badge&logo=creative-commons&logoColor=white" alt="License"/></a>
 </p>
 
 > Note: Many of my projects are released under the CC0 1.0 Universal dedication (public domain). The CC0 badge highlights projects that adopt CC0.
@@ -24,7 +24,7 @@ Student developer learning how intelligent systems work at at the intersection o
 
 ## 🚀 About Me
 
-I'm a student developer focused on **Agentic AI**, **IoT systems**, and **Robotics**. I'm especially interested in how autonomous agents are reshaping technology, and I enjoy exploring practical and hands'on work.
+I'm a student developer focused on **Agentic AI**, **IoT systems**, and **Robotics**. I'm especially interested in how autonomous agents are reshaping technology, and I enjoy exploring practical applications of AI in real-world problems.
 
 **Notable achievement:** Completed the **IIT Kharagpur KRITI Initiative**, a 6-week intensive STEM program, where I served as **Project Lead & Tech Lead** for a Smart Drip Irrigation IoT system.
 
@@ -48,8 +48,19 @@ Outside of code: reading, chess, badminton, swimming, and writing — including 
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### AI & ML
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-1D1D1D?style=for-the-badge&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
 ### Hardware & IoT
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
@@ -57,6 +68,11 @@ Outside of code: reading, chess, badminton, swimming, and writing — including 
 ![DHT22](https://img.shields.io/static/v1?label=DHT22&message=DHT22&color=4CAF50&style=for-the-badge&logo=arduino&logoColor=white)
 ![Ultrasonic (HC-SR04)](https://img.shields.io/static/v1?label=Ultrasonic&message=HC-SR04&color=007ACC&style=for-the-badge&logo=arduino&logoColor=white)
 ![Haptic Motor](https://img.shields.io/static/v1?label=Haptic%20Motor&message=Vibration&color=E91E63&style=for-the-badge&logo=arduino&logoColor=white)
+
+### Web & Backend
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### Tools & Platforms
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
