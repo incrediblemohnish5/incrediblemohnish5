@@ -26,7 +26,10 @@ Student developer learning how intelligent systems work at at the intersection o
 
 I'm a student developer focused on **Agentic AI**, **IoT systems**, and **Robotics**. I'm especially interested in how autonomous agents are reshaping technology, and I enjoy exploring practical applications of AI in real-world problems.
 
-**Notable achievement:** Completed the **IIT Kharagpur KRITI Initiative**, a 6-week intensive STEM program, where I served as **Project Lead & Tech Lead** for a Smart Drip Irrigation IoT system.
+**Notable achievement:** Completed the
+-**IIT Kharagpur KRITI Initiative**, a 6-week intensive STEM program, where I served as **Project Lead & Tech Lead** for a Smart Drip Irrigation IoT system.
+- **PRAVAH 2026 — Track 2 (Idea Pitch), KRITI Initiative, IIT Kharagpur** — Participated. Idea: "Natural Disaster Power Grid Self Healing AI" (researched)
+
 
 Outside of code: reading, chess, badminton, swimming, and writing — including articles on Medium and a book in progress.
 
