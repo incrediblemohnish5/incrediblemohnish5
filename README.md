@@ -121,7 +121,7 @@ Smaller programs demonstrating core Python concepts:
 
 - [![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@mohnishchaudhari): [@mohnishchaudhari](https://medium.com/@mohnishchaudhari)
 - **GitHub**: [@incrediblemohnish5](https://github.com/incrediblemohnish5)
-- **Open to**: mentorship, project ideas, collaborations, and discussions on AI ethics, cybersecurity, IoT and Agentic AI
+- **Open to**: mentorship, project ideas, collaborations, and discussions.
 
 ---
 
