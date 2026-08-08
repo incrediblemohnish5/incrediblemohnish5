@@ -20,7 +20,7 @@ Student developer learning how AI, IoT and robotics work at their intersection. 
 
 ---
 
-## 🚀 Quick Pitch
+## 🚀 About Me
 
 I am a student building tangible IoT systems and learning new things. I lead projects end-to-end — from hardware design and embedded systems to AI models and deployment. I enjoy turning research ideas into working prototypes and writing about what I learn.
 
