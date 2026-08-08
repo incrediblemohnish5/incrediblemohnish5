@@ -73,7 +73,7 @@ IoT system optimizing water usage in agriculture. Built while I was Project Lead
 ### [Agentic_AI](https://github.com/incrediblemohnish5/Agentic_AI)
 Exploring autonomous AI agents and their real-world applications.
 
-### [Smart Blind Stick]
+### Smart Blind Stick
 Assistive tech for visually impaired users — work ongoing.
 
 ---
