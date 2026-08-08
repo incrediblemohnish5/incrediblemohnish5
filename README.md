@@ -1,8 +1,8 @@
 # Hey there! 👋 I'm Mohnish Chaudhari
 
-**MIT UG Aspirant • AI & Agentic Systems • IoT Developer • Robotics Enthusiast**
+**• AI & Agentic Systems • IoT Developer • Robotics Enthusiast •**
 
-Student developer building autonomous systems at the intersection of AI, IoT and robotics. Currently focused on agentic AI research, practical IoT prototypes, and making high-impact projects that solve real-world problems.
+Student developer learning how AI, IoT and robotics work at their intersection. Currently focused on practical IoT prototypes, and making high-impact projects that solve real-world problems.
 
 ---
 
@@ -16,15 +16,15 @@ Student developer building autonomous systems at the intersection of AI, IoT and
   <a href="https://creativecommons.org/publicdomain/zero/1.0/"><img src="https://img.shields.io/badge/License-CC0_1.0-lightgrey?style=for-the-badge&logo=creative-commons&logoColor=white" alt="CC0"/></a>
 </p>
 
-> Note: Many of my projects are released under CC0 1.0 (public domain).
+> Note: Most of my projects are released under CC0 (NC) (public domain).
 
 ---
 
 ## 🚀 Quick Pitch
 
-I am an MIT undergraduate aspirant building tangible AI + IoT systems. I lead projects end-to-end — from hardware design and embedded systems to AI models and deployment. I enjoy turning research ideas into working prototypes and writing about what I learn.
+I am a student building tangible IoT systems and learning new things. I lead projects end-to-end — from hardware design and embedded systems to AI models and deployment. I enjoy turning research ideas into working prototypes and writing about what I learn.
 
-**Looking for:** Research internships, mentorship, and collaborative projects related to AI agents, robotics, and embedded systems.
+**Looking for:** Research internships, mentorship, and collaborative projects.
 
 ---
 
@@ -33,6 +33,7 @@ I am an MIT undergraduate aspirant building tangible AI + IoT systems. I lead pr
 - Project Lead & Tech Lead — Smart Drip Irrigation System (IIT Kharagpur, KRITI Initiative)
 - PRAVAH 2026 — Track 2 (Idea Pitch) participant; researched "Natural Disaster Power Grid Self Healing AI"
 - Active writer on AI/Robotics topics (Medium)
+- Writing a book on investing (my personal family experience combined with what I have found/learnt from books.)
 
 ---
 
@@ -40,11 +41,10 @@ I am an MIT undergraduate aspirant building tangible AI + IoT systems. I lead pr
 
 | Area | Details |
 |---|---|
-| **Agentic AI** | Multi-agent systems, autonomous agents, real-world evaluation |
+| **Agentic AI Ethics** | Multi-agent systems, autonomous agents, real-world evaluation |
 | **AI/ML & Prompt Engineering** | LLM experiments, prompt frameworks, responsible AI |
 | **IoT & Embedded Systems** | ESP32/Arduino, sensors, low-power design, real-time data |
-| **Robotics & Assistive Tech** | Prototype development, sensor fusion, human-centered design |
-| **Security & Software Engineering** | Secure-by-design practices, CI/CD, testing |
+| **Robotics & Assistive Tech** | Prototype development, human-centered design |
 
 ---
 
