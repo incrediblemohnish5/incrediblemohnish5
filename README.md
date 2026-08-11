@@ -95,9 +95,9 @@ Smaller projects demonstrating core Python concepts and utilities. See my repos 
 
 ## 🤝 Let's Connect
 
-- [Medium](https://medium.com/@mohnishchaudhari) — @mohnishchaudhari
+-   <a href="https://medium.com/@mohnishchaudhari"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a> — @mohnishchaudhari
 - GitHub — [@incrediblemohnish5](https://github.com/incrediblemohnish5)
 
 ---
 
-*Last updated: 8 August 2026*
+*Last updated: 11 August 2026*
