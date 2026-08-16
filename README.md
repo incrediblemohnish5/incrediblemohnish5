@@ -1,6 +1,6 @@
 # Hey there! 👋 I'm Mohnish Chaudhari
 
-**• AI & Agentic Systems Enthusiast• IoT Developer • Robotics Enthusiast •**
+**•AI & Agentic Systems Enthusiast • IoT Developer • Robotics Enthusiast • Environmental Engineering • Food Security•**
 
 Student developer learning how AI, IoT and robotics work at their intersection. Currently focused on practical IoT prototypes, and making high-impact projects that solve real-world problems.
 
