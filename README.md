@@ -22,7 +22,7 @@ Student developer learning how AI, IoT and robotics work at their intersection. 
 
 ## 🚀 About Me
 
-I am a student building tangible IoT systems and learning new things. I lead projects end-to-end — from hardware design and embedded systems to AI models and deployment. I enjoy turning research ideas into working prototypes and writing about what I learn.
+I am a student building tangible IoT systems and learning new things. I lead projects end-to-end — from hardware design and embedded systems to AI models and deployment. I enjoy turning research into real-world impact.
 
 **Looking for:** Research internships, mentorship, and collaborative projects.
 
@@ -54,10 +54,10 @@ I am a student building tangible IoT systems and learning new things. I lead pro
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Hardware & IoT
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white) ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white) ![DHT22](https://img.shields.io/static/v1?label=DHT22&message=DHT22&color=4CAF50&style=for-the-badge&logo=arduino&logoColor=white) ![HC-SR04](https://img.shields.io/static/v1?label=HC-SR04&message=Ultrasonic&color=007ACC&style=for-the-badge&logo=arduino&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white) ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white) ![DHT](https://img.shields.io/badge/DHT-0071C5?style=for-the-badge&logoColor=white) ![DHT22](https://img.shields.io/badge/DHT22-0071C5?style=for-the-badge&logoColor=white) ![HC-SR04](https://img.shields.io/badge/HC--SR04-0071C5?style=for-the-badge&logoColor=white) ![Ultrasonic](https://img.shields.io/badge/Ultrasonic-0071C5?style=for-the-badge&logoColor=white)
 
 ### Tools & Platforms
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white) ![Lovable.dev](https://img.shields.io/static/v1?label=Lovable.dev&message=Lovable.dev&color=FB8C00&style=for-the-badge&logo=heart&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![Lovable.dev](https://img.shields.io/badge/Lovable.dev-FF8C00?style=for-the-badge&logoColor=white)
 
 ---
 
