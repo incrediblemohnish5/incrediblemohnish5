@@ -12,7 +12,7 @@ Student developer learning how AI, IoT and robotics work at their intersection. 
   <img src="https://komarev.com/ghpvc/?username=incrediblemohnish5&color=blueviolet" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/incrediblemohnish5?style=social" alt="GitHub followers" />
   <img src="https://img.shields.io/github/stars/incrediblemohnish5?style=social" alt="GitHub stars" />
-  <a href="https://medium.com/@mohnishchaudhari"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
+  </a>
   <a href="https://creativecommons.org/publicdomain/zero/1.0/"><img src="https://img.shields.io/badge/License-CC0_1.0-lightgrey?style=for-the-badge&logo=creative-commons&logoColor=white" alt="CC0"/></a>
 </p>
 
