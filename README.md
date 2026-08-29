@@ -13,7 +13,7 @@ Student developer learning how AI, IoT and robotics work at their intersection. 
   <img src="https://img.shields.io/github/followers/incrediblemohnish5?style=social" alt="GitHub followers" />
   <img src="https://img.shields.io/github/stars/incrediblemohnish5?style=social" alt="GitHub stars" />
   <a href="https://medium.com/@mohnishchaudhari"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
-  <a href="https://creativecommons.org/publicdomain/zero/1.0/"><img src="https://img.shields.io/badge/License-CC0_1.0-lightgrey?style=for-the-badge&logo=creative-commons&logoColor=white" alt="CC0"[...]
+  <a href="https://creativecommons.org/publicdomain/zero/1.0/"><img src="https://img.shields.io/badge/License-CC0_1.0-lightgrey?style=for-the-badge&logo=creative-commons&logoColor=white" alt="CC0"/></a>
 </p>
 
 > Note: Most of my projects are released under CC0 (NC) (public domain).
@@ -22,7 +22,7 @@ Student developer learning how AI, IoT and robotics work at their intersection. 
 
 ## 🚀 About Me
 
-I am a student building tangible IoT systems and learning new things. I lead projects end-to-end — from hardware design and embedded systems to AI models and deployment. I enjoy turning research[...]
+I am a student building tangible IoT systems and learning new things. I lead projects end-to-end — from hardware design and embedded systems to AI models and deployment. I enjoy turning research into practical applications and sharing knowledge with the community.
 
 **Looking for:** Research internships, mentorship, and collaborative projects.
 
@@ -51,13 +51,16 @@ I am a student building tangible IoT systems and learning new things. I lead pro
 ## 🛠️ Tech Stack
 
 ### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Hardware & IoT
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white) ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 
+### Web & Deployment
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white) ![Lovable.dev](https://img.shields.io/badge/Lovable.dev-FF6B35?style=for-the-badge&logo=airbnb&logoColor=white)
+
 ### Tools & Platforms
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
@@ -100,4 +103,4 @@ Smaller projects demonstrating core Python concepts and utilities. See my repos 
 
 ---
 
-*Last updated: 11 August 2026*
+*Last updated: 29 August 2026*
