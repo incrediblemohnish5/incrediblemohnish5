@@ -31,9 +31,9 @@ I am a student building tangible IoT systems and learning new things. I lead pro
 ## 🌟 Key Highlights
 
 - Project Lead & Tech Lead — IoT based Smart Drip Irrigation System (IIT Kharagpur, KRITI Initiative)
-- PRAVAH 2026 — Track 2 (Idea Pitch) participant; researched "Natural Disaster Power Grid Self Healing AI"
+- PRAVAH 2026(IIT Kharagpur Science & Innovation Fair) — Track 2 (Idea Pitch) participant; researched "Natural Disaster Power Grid Self Healing AI"
 - Active writer on AI/Robotics topics (Medium)
-- Writing a book on investing (my personal family experience combined with what I have found/learnt from books.)
+- Writing a book on investing (my personal views/opinions combined with what I have learnt/known from books.)
 
 ---
 
