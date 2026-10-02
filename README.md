@@ -60,7 +60,8 @@ I am a student building tangible IoT systems and learning new things. I lead pro
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white) ![Lovable.dev](https://img.shields.io/badge/Lovable.dev-FF6B35?style=for-the-badge&logo=airbnb&logoColor=white)
 
 ### Tools & Platforms
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Orange](https://img.shields.io/badge/Orange%20Data%20Mining-FFA500?style=for-the-badge&logo=data&logoColor=orange)
+
 
 ---
 
