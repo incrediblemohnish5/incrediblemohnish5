@@ -9,7 +9,6 @@ Student developer learning how AI, IoT and robotics work at their intersection. 
 ## 📊 Badges
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=incrediblemohnish5&color=blueviolet" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/incrediblemohnish5?style=social" alt="GitHub followers" />
   <img src="https://img.shields.io/github/stars/incrediblemohnish5?style=social" alt="GitHub stars" />
   </a>
