@@ -9,13 +9,10 @@ Student developer learning how AI, IoT and robotics work at their intersection. 
 ## 📊 Badges
 
 <p align="left">
-  <img src="https://img.shields.io/github/followers/incrediblemohnish5?style=social" alt="GitHub followers" />
-  <img src="https://img.shields.io/github/stars/incrediblemohnish5?style=social" alt="GitHub stars" />
-  </a>
   <a href="https://creativecommons.org/publicdomain/zero/1.0/"><img src="https://img.shields.io/badge/License-CC0_1.0-lightgrey?style=for-the-badge&logo=creative-commons&logoColor=white" alt="CC0"/></a>
 </p>
 
-> Note: Most of my projects are released under CC0 (NC) (public domain).
+> Most of my projects are released under CC0 (NC) (public domain).
 
 ---
 
